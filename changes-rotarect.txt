@@ -1,0 +1,72 @@
+Manage Event
+
+- 1. End Time add field
+
+- 2. date and time => update
+
+PENDING
+
+
+
+
+
+Manage Sponsore (add fields)
+
+- 1. Phone 
+
+- 2. Email
+
+DONE
+
+
+
+
+
+Manage Doctors
+
+- 1. category to specialization change
+
+- 2. skill field to keyword
+
+- 3. remove Subskill
+
+DONE
+
+
+
+
+Member status
+
+api => memberStatus
+
+- 1. getAll, add, update, delete
+
+WORKING
+
+
+
+
+
+Manage Members 
+
+- 1. Leader (remove field) - Done
+
+- 2. Member status to state - Done
+
+   - 1. dynamic dropdown ( Leader, Member, Guest ) - Update
+
+PENDING
+
+
+
+
+
+Sponsore category
+
+- 1. add, update, delete
+
+PENDING
+
+
+
+

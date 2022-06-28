@@ -1,0 +1,6 @@
+member update
+- country, state, city
+
+admin panel 
+- ui 
+
